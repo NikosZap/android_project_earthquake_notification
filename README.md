@@ -2,6 +2,8 @@
 
 Νικόλαος Διονύσιος Ζαπάντης icsd17047
 
+https://github.com/NikosZap/android_project_earthquake_notification
+
 Σχετικά με το ανέβασμα του project απο το android studio στο github, δυσκολεύτηκα πάρα πολύ να το κάνω upload στο repository της σχολής και για αυτο το ανέβασα σε δικό μου repository. Μετά απο πολλές προσπάθειες παρακολουθόντας tutorial και διαβάζοντας οδηγίες, με εγκατάσταση του git, στην προσπάθεια να το κάνω push στο url του repository της σχολής, μου πετούσε σφάλματα τόσο στην αυθεντικοποίηση, όσο και στο token ενώ προσπάθουσα να διαβεβαιωθώ αν κάνω κάτι λάθος. Στο repository της σχολής ανεβάζω το project σε μορφή zip και στο προσωπικό repository το
 project μέσω του git.
 
